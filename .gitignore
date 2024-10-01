@@ -1,0 +1,8 @@
+archivo_secreto.txt
+*.log
+logs/
+node_modules/
+
+# Ignora todo en el directorio "ejemplos", excepto el archivo especifico
+ejemplos/*
+!ejemplos/ejemplo_importante.txt
